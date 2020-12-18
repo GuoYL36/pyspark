@@ -7,4 +7,4 @@
 + pyspark调用xgboost示例
     + demo.py
     + demo1.py
-    + 见博客：
+    + 见博客：https://blog.csdn.net/NOT_GUY/article/details/111386355
